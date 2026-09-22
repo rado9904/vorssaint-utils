@@ -43,6 +43,7 @@ extension FeatureStrings {
         case .tr: return .tr
         case .ru: return .ru
         case .es: return .es
+        case .sk: return .sk
         case .de: return .de
         case .fr: return .fr
         case .it: return .it
@@ -174,6 +175,29 @@ extension SuperKeyStrings {
         soloInputSource: "Cambiar fuente de entrada; mantener para Bloq Mayús",
         mappingForeignMapping: "La reasignación de otra app usa la tecla seleccionada. Elimínala en esa app: salir de ella no basta.",
         mappingSystemRefused: "macOS rechazó la reasignación de teclas. Vuelve a conectar el teclado o reinicia el Mac y activa esto de nuevo."
+    )
+
+    static let sk = SuperKeyStrings(
+        pageTitle: "Super kláves",
+        hubDescription: "Zmení jeden kláves na kombináciu doplnkových klávesov, ktorú si vyberiete.",
+        enableToggle: "Použiť tento kláves ako super kláves",
+        enableCaption: "Podržte ho a stlačte akýkoľvek kláves. Nižšie vyberte jeden alebo viac doplnkových klávesov.",
+        modifierKeysNote: "Ponechajte tento kláves s predvolenou akciou v Nastavenia systému › Klávesnica › Klávesy doplnkov.",
+        sourceKey: "Kláves na podržanie",
+        capsLockKey: "Caps Lock",
+        rightKeyFormat: "Pravý %@",
+        holdHint: "Podržte",
+        soloSection: "Samostatné stlačenie",
+        soloCaption: "Čo urobí rýchle stlačenie, keď nie je stlačený žiadny iný kláves.",
+        soloNothing: "Nič",
+        soloCapsLock: "Zapne a vypne veľké písmená",
+        soloEscape: "Stlačí Escape",
+        activeNow: "Momentálne aktívne",
+        panelCaptionFormat: "%1$@ podrží %2$@.",
+        manageButton: "Nastaviť…",
+        soloInputSource: "Prepne zdroj vstupu; podržaním aktivujete Caps Lock",
+        mappingForeignMapping: "Mapovanie klávesov inej aplikácie používa vybraný kláves. Odstráňte ho v tejto aplikácii: samotné ukončenie nestačí.",
+        mappingSystemRefused: "macOS odmietol mapovanie klávesov. Znova pripojte klávesnicu alebo reštartujte Mac a potom to znova zapnite."
     )
 
     static let de = SuperKeyStrings(

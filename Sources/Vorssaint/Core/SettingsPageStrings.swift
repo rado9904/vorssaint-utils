@@ -24,6 +24,7 @@ extension FeatureStrings {
         case .tr: return .tr
         case .ru: return .ru
         case .es: return .es
+        case .sk: return .sk
         case .de: return .de
         case .fr: return .fr
         case .it: return .it
@@ -90,6 +91,17 @@ extension SettingsPageStrings {
         switcherLayoutWindowsCaption: "Una vista previa por ventana, incluidas las minimizadas.",
         switcherLayoutIcons: "Iconos grandes",
         switcherLayoutSimple: "Lista simple"
+    )
+
+    static let sk = SettingsPageStrings(
+        energyDescription: "Udržujte Mac v bdelom stave, ovládajte svoje displeje a šetrite batériu.",
+        monitorDescription: "Čo lišta a panel zobrazujú o vašom Macu a kedy vás upozorniť.",
+        mouseDescription: "Priraďte kolieku, bočným tlačidlám a trackpadu nové úlohy.",
+        switcherDescription: "Prepínajte medzi aplikáciami a oknami po svojom a sledujte okná z Docku.",
+        switcherLayoutWindows: "Náhľady okien",
+        switcherLayoutWindowsCaption: "Jeden náhľad na okno, vrátane minimalizovaných.",
+        switcherLayoutIcons: "Veľké ikony",
+        switcherLayoutSimple: "Jednoduchý zoznam"
     )
 
     static let de = SettingsPageStrings(

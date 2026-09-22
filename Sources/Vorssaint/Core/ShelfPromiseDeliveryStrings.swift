@@ -47,6 +47,13 @@ struct ShelfPromiseDeliveryStrings {
                 fullTitle: "Bandeja llena",
                 fullBody: "El adjunto terminó de guardarse, pero no queda sitio en la bandeja.",
                 okButton: "OK")
+        case .sk:
+            return .init(
+                failedTitle: "Nepodarilo sa pridať prílohu",
+                failedBody: "Ukladanie súboru na poličku sa nedokončilo.",
+                fullTitle: "Polička je plná",
+                fullBody: "Príloha sa uložila, no na poličke už nie je miesto.",
+                okButton: "OK")
         case .de:
             return .init(
                 failedTitle: "Anhang konnte nicht hinzugefügt werden",
