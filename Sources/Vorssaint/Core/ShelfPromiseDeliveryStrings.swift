@@ -50,9 +50,9 @@ struct ShelfPromiseDeliveryStrings {
         case .sk:
             return .init(
                 failedTitle: "Nepodarilo sa pridať prílohu",
-                failedBody: "Ukladanie súboru na poličku sa nedokončilo.",
-                fullTitle: "Polička je plná",
-                fullBody: "Príloha sa uložila, no na poličke už nie je miesto.",
+                failedBody: "Ukladanie súboru na policu sa nedokončilo.",
+                fullTitle: "Polica je plná",
+                fullBody: "Príloha sa uložila, no na polici už nie je miesto.",
                 okButton: "OK")
         case .de:
             return .init(

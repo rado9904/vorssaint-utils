@@ -6,6 +6,19 @@ import Foundation
 
 /// Languages the interface can use. The first launch defaults to the system
 /// language; the onboarding and Settings let the user override it at any time.
+/// The way a language agrees a noun with the number in front of it.
+enum CountAgreement {
+    /// One form for exactly one, another for every other count.
+    case oneAndMany
+    /// Russian: the number's last digits decide. 21 takes the first form and
+    /// 22 the middle one, while 11 through 14 fall back to the last.
+    case byLastDigits
+    /// Slovak: the whole number decides. Only one itself takes the first form
+    /// and only two through four the middle one, so 21 and 22 read
+    /// "21 súborov" and "22 súborov" the same way 25 does.
+    case byWholeNumber
+}
+
 enum AppLanguage: String, CaseIterable, Identifiable {
     case enUS = "en-US"
     case ptBR = "pt-BR"
@@ -24,11 +37,17 @@ enum AppLanguage: String, CaseIterable, Identifiable {
 
     var id: String { rawValue }
 
-    /// Whether this language puts a distinct form between one and many. Two
-    /// of the fourteen, Russian and Slovak: two through four take a form of
-    /// their own, so "2 файла" and not "2 файлов", "2 súbory" and not
-    /// "2 súborov".
-    var usesFewCountForm: Bool { self == .ru || self == .sk }
+    /// How this language agrees a counted noun with the number in front of
+    /// it. Two of the fourteen put a distinct form between one and many, and
+    /// they disagree on which numbers take it, so the count itself is not
+    /// enough to pick a form without knowing the language's rule.
+    var countAgreement: CountAgreement {
+        switch self {
+        case .ru: return .byLastDigits
+        case .sk: return .byWholeNumber
+        default: return .oneAndMany
+        }
+    }
 
     /// The language's own name, shown in its own script, the way macOS lists them.
     var displayName: String {

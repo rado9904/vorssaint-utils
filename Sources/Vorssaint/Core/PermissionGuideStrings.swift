@@ -127,7 +127,7 @@ extension PermissionGuideStrings {
 
     static let sk = PermissionGuideStrings(
         title: "Ostáva jeden krok",
-        stepOpen: "macOS otvoril Nastavenia systému na správnom zozname.",
+        stepOpen: "macOS otvoril Systémové nastavenia na správnom zozname.",
         stepToggle: "V tomto zozname zapnite Vorssaint.",
         stepReturn: "Vráťte sa sem. Táto karta si to všimne sama.",
         waiting: "Čaká sa na povolenie…",

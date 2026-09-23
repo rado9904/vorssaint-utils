@@ -303,8 +303,8 @@ extension FanControlFeatureStrings {
         fanNameFormat: "Ventilátor %d",
         rpmFormat: "%d ot./min",
         allowControl: "Povoliť ovládanie ventilátorov",
-        approvalCaption: "Povoľte Vorssaint v Položkách pri prihlásení, aby mohol používať chránené ovládanie ventilátorov.",
-        openSettings: "Otvoriť Nastavenia systému",
+        approvalCaption: "Povoľte Vorssaint v časti Položky a rozšírenia spúšťané pri prihlásení, aby mohol používať chránené ovládanie ventilátorov.",
+        openSettings: "Otvoriť Systémové nastavenia",
         noFans: "Tento Mac nemá ovládateľný ventilátor.",
         unsupported: "Ovládanie ventilátorov nie je na tomto Macu dostupné.",
         alreadyControlled: "Ventilátory ovláda iný proces. Najprv ho vráťte na systémové ovládanie.",
@@ -337,7 +337,7 @@ extension FanControlFeatureStrings {
         averageCPU: "Priemer CPU",
         hottestCPU: "Najteplejší CPU",
         hottestGPU: "Najteplejší GPU",
-        helperUnavailable: "Chránený ovládač ventilátorov nie je dostupný. Povoľte Vorssaint v Položkách pri prihlásení a skúste to znova."
+        helperUnavailable: "Chránený ovládač ventilátorov nie je dostupný. Povoľte Vorssaint v časti Položky a rozšírenia spúšťané pri prihlásení a skúste to znova."
     )
 
     static let de = FanControlFeatureStrings(

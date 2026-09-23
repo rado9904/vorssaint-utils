@@ -197,7 +197,7 @@ extension FeatureStrings {
             automaticSource: "Automaticky",
             liveEqualizer: "Pruhy sledujú hudbu",
             liveEqualizerDescription: "Pohybujte pruhmi Dynamic Island podľa zvuku vášho prehrávača.",
-            liveEqualizerHint: "Sleduje zvukový výstup samotného prehrávača, aby pohyboval pruhmi. macOS raz požiada o povolenie na nahrávanie systémového zvuku. Nič sa neukladá ani neodosiela. Bez neho si pruhy zachovávajú svoj obvyklý pohyb.",
+            liveEqualizerHint: "Sleduje zvukový výstup samotného prehrávača, aby pohyboval pruhmi. macOS raz požiada o povolenie na nahrávanie systémového audia. Nič sa neukladá ani neodosiela. Bez neho si pruhy zachovávajú svoj obvyklý pohyb.",
             liveEqualizerUnavailable: "Vyžaduje macOS 14.4 alebo novší.")
         case .de: return NotchMusicExtrasStrings(
             lyrics: "Liedtext",

@@ -104,7 +104,7 @@ extension CameraPreviewFeatureStrings {
         panelCaption: "Pred hovorom si skontrolujte, ako vyzeráte",
         openButton: "Otvoriť náhľad",
         cameraMenuLabel: "Kamera",
-        deniedMessage: "Prístup ku kamere pre Vorssaint je v Nastaveniach systému vypnutý.",
+        deniedMessage: "Prístup ku kamere pre Vorssaint je v Systémových nastaveniach vypnutý.",
         noCameraMessage: "Kamera nebola zistená",
         permName: "Kamera",
         permExplain: "Zobrazuje vašu kameru iba v okne náhľadu, aby ste si pred hovorom mohli skontrolovať, ako vyzeráte. Nič sa nenahráva ani neopúšťa váš Mac."

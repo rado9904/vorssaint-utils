@@ -266,7 +266,7 @@ extension MouseButtonFeatureStrings {
         spacesEnableLabel: "Prepínať Priestory presunutím tlačidla",
         spacesEnableCaption: "Podržte zvolené tlačidlo a presuňte: vľavo alebo vpravo prejde o jeden Priestor, hore otvorí Mission Control, dole otvorí Exposé aplikácie. Krátke kliknutie naďalej robí to, čo vždy.",
         spacesPickButton: "Vybrať tlačidlo",
-        spacesShortcutsOffNote: "Klávesové skratky pre Mission Control sú v Nastaveniach systému vypnuté, takže toto gesto nemá o čo požiadať.",
+        spacesShortcutsOffNote: "Klávesové skratky pre Mission Control sú v Systémových nastaveniach vypnuté, takže toto gesto nemá o čo požiadať.",
         spacesCaptureWaiting: "Teraz stlačte extra tlačidlo.",
         spacesCaptureUnsupported: "Tento vstup nemožno podržať pre presunutie. Použite extra tlačidlo.",
         spacesCaptureExists: "Toto tlačidlo už má skratku. Vyberte iné.",

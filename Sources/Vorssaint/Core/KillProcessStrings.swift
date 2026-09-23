@@ -244,7 +244,7 @@ extension KillProcessFeatureStrings {
         processCountFormat: "Procesy: %d",
         killButton: "Ukončiť",
         forceKillButton: "Vynútene ukončiť",
-        killAllFormat: "Ukončiť všetky „%@„",
+        killAllFormat: "Ukončiť všetky „%@“",
         killTreeButton: "Ukončiť strom procesu",
         restartButton: "Reštartovať",
         copyPID: "Kopírovať PID",
@@ -252,11 +252,11 @@ extension KillProcessFeatureStrings {
         emptyStateTitle: "Nenašli sa žiadne procesy",
         confirmKillFormat: "Ukončiť %@?",
         confirmForceKillFormat: "Vynútene ukončiť %@?",
-        confirmKillAllFormat: "Ukončiť všetky procesy „%@„?",
+        confirmKillAllFormat: "Ukončiť všetky procesy „%@“?",
         confirmKillTreeFormat: "Ukončiť %@ a všetky jeho podradené procesy?",
         killFailedTitle: "Proces sa nepodarilo ukončiť",
         killFailedMessage: "Proces už možno skončil alebo vyžaduje ďalšie oprávnenia.",
-        adminPromptFormat: "Vorssaint potrebuje prístup správcu na ukončenie „%@„."
+        adminPromptFormat: "Vorssaint potrebuje prístup správcu na ukončenie „%@“."
     )
 
     static let de = KillProcessFeatureStrings(

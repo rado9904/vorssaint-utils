@@ -116,7 +116,7 @@ extension BackupFeatureStrings {
 
     static let sk = BackupFeatureStrings(
         title: "Záloha",
-        description: "Preneste svoje nastavenia na iný Mac: exportujte všetky predvoľby do súboru a tam ich importujte. Poznámkový blok, história schránky, položky poličky a systémové povolenia nikdy neopustia tento Mac.",
+        description: "Preneste svoje nastavenia na iný Mac: exportujte všetky predvoľby do súboru a tam ich importujte. Poznámkový blok, história schránky, položky police a systémové povolenia nikdy neopustia tento Mac.",
         exportButton: "Exportovať nastavenia…",
         importButton: "Importovať nastavenia…",
         exported: "Záloha uložená",

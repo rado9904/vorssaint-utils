@@ -182,7 +182,7 @@ extension SuperKeyStrings {
         hubDescription: "Zmení jeden kláves na kombináciu doplnkových klávesov, ktorú si vyberiete.",
         enableToggle: "Použiť tento kláves ako super kláves",
         enableCaption: "Podržte ho a stlačte akýkoľvek kláves. Nižšie vyberte jeden alebo viac doplnkových klávesov.",
-        modifierKeysNote: "Ponechajte tento kláves s predvolenou akciou v Nastavenia systému › Klávesnica › Klávesy doplnkov.",
+        modifierKeysNote: "Ponechajte tento kláves s predvolenou akciou v Systémových nastaveniach › Klávesnica › Klávesy-modifikátory.",
         sourceKey: "Kláves na podržanie",
         capsLockKey: "Caps Lock",
         rightKeyFormat: "Pravý %@",

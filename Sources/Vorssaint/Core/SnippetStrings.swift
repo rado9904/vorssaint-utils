@@ -537,7 +537,7 @@ extension SnippetFeatureStrings {
         libraryCaption: "Skratka otvorí ponuku s vyhľadávaním. Výberom fragmentu ho vložíte presne tam, kde je kurzor.",
         librarySearchPlaceholder: "Hľadať fragmenty",
         libraryNoResults: "Vyhľadávaniu nezodpovedá žiadny fragment.",
-        libraryEmpty: "Zatiaľ nie je čo zobraziť. Pridajte fragmenty alebo pri tých, ktoré používate najčastejšie, zapnite „Zobraziť v rýchlej ponuke„.",
+        libraryEmpty: "Zatiaľ nie je čo zobraziť. Pridajte fragmenty alebo pri tých, ktoré používate najčastejšie, zapnite „Zobraziť v rýchlej ponuke“.",
         libraryFooterHint: "↩ vloží · esc zavrie",
         folderLabel: "Priečinok",
         folderPlaceholder: "Práca",

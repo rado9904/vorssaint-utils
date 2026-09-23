@@ -191,7 +191,7 @@ extension WhatsAppDownloadStrings {
         localNote: "Kontrolujú sa iba lokálne metadáta súborov. Vorssaint nikdy nečíta konverzácie ani obsah súborov.",
         notificationTitle: "Čistenie WhatsAppu",
         notificationFormat: "Do Koša presunuté súbory: %1$d (%2$@). Zlyhalo: %3$d.",
-        scanFailed: "Stiahnuté sa nepodarilo skenovať. Skontrolujte Súbory a priečinky v Nastaveniach systému.",
+        scanFailed: "Stiahnuté sa nepodarilo skenovať. Skontrolujte Súbory a priečinky v Systémových nastaveniach.",
         manageButton: "Spravovať…"
     )
 

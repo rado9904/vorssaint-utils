@@ -265,7 +265,7 @@ extension ScratchpadFeatureStrings {
         closePad: "Zavrieť poznámkový blok",
         saveName: "Uložiť",
         cancel: "Zrušiť",
-        deletePadMessageFormat: "Vymazať „%@„ a celý jeho obsah?",
+        deletePadMessageFormat: "Vymazať „%@“ a celý jeho obsah?",
         padLimitFormat: "Maximálny počet poznámkových blokov: %d",
         previewFormatting: "Zobraziť formátovanie",
         editText: "Upraviť text"

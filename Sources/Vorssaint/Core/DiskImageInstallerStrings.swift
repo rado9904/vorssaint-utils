@@ -173,16 +173,16 @@ extension DiskImageInstallerStrings {
         promptBodyFormat: "Aplikácia %@ sa skopíruje do %@ a obraz disku sa vysunie.",
         installButton: "Nainštalovať",
         installedTitle: "Aplikácia nainštalovaná",
-        installedBodyFormat: "Aplikácia %@ je pripravená v %@. Obraz disku bol vysunutý a stiahnutý súbor presunutý do Koša.",
-        installedKeepingMountBodyFormat: "Aplikácia %@ je nainštalovaná v %@, ale obraz disku sa nepodarilo vysunúť. Stiahnutý súbor zostal zachovaný.",
-        installedKeepingDownloadBodyFormat: "Aplikácia %@ je nainštalovaná v %@ a obraz disku bol vysunutý, ale stiahnutý súbor sa nepodarilo presunúť do Koša.",
+        installedBodyFormat: "Aplikácia %@ bola nainštalovaná do %@. Obraz disku bol vysunutý a stiahnutý súbor presunutý do Koša.",
+        installedKeepingMountBodyFormat: "Aplikácia %@ bola nainštalovaná do %@, ale obraz disku sa nepodarilo vysunúť. Stiahnutý súbor zostal zachovaný.",
+        installedKeepingDownloadBodyFormat: "Aplikácia %@ bola nainštalovaná do %@ a obraz disku bol vysunutý, ale stiahnutý súbor sa nepodarilo presunúť do Koša.",
         failedTitle: "Nepodarilo sa nainštalovať",
         failedBody: "Nič sa nezmenilo. Aplikáciu môžete stále presunúť do priečinka Aplikácie.",
         verificationFailedBody: "Tento Mac nemohol overiť aplikáciu, preto sa nič nenainštalovalo.",
         alreadyInstalledBodyFormat: "Aplikácia %@ je už v priečinku Aplikácie.",
         trashDownloadOption: "Presunúť stiahnutý súbor do Koša",
         revealAppOption: "Zobraziť nainštalovanú aplikáciu vo Finderi",
-        installedKeptDownloadBodyFormat: "Aplikácia %@ je pripravená v %@. Obraz disku bol vysunutý a stiahnutý súbor zostal zachovaný.",
+        installedKeptDownloadBodyFormat: "Aplikácia %@ bola nainštalovaná do %@. Obraz disku bol vysunutý a stiahnutý súbor zostal zachovaný.",
         installingFormat: "Inštalovanie %@…"
     )
 

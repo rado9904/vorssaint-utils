@@ -431,7 +431,7 @@ extension MediaImageConverterStrings {
         backgroundWhite: "Biele",
         backgroundBlack: "Čierne",
         preserveDate: "Zachovať pôvodný dátum úpravy",
-        saveInSubfolder: "Uložiť do podpriečinka „Converted„",
+        saveInSubfolder: "Uložiť do podpriečinka „Converted“",
         moreOptions: "Ďalšie možnosti",
         tooLarge: "Tieto rozmery sú príliš veľké na bezpečné spracovanie. Zvoľte menšiu veľkosť.",
         copySummary: "Kopírovať súhrn",
