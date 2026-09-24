@@ -56,7 +56,7 @@ extension Strings {
         keepAwakeUntilDisabled: "Aktívny, kým ho nevypnete",
         keepAwakeNormalRules: "Mac sa riadi bežnými pravidlami úspory energie",
         keepAwakeUntilLabel: "Do",
-        keepAwakeUntilStart: "Začiatok",
+        keepAwakeUntilStart: "Spustiť",
         keepAwakeOptions: "Možnosti",
         keepAwakeMouseJiggle: "Jemne pohybovať kurzorom",
         keepAwakeMouseJiggleCaption: "Počas relácie jemne pohne kurzorom vo zvolenom intervale.",
