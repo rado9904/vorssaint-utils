@@ -127,6 +127,7 @@ extension BackupFeatureStrings {
         exportButton: "Exportovať nastavenia…",
         importButton: "Importovať nastavenia…",
         exported: "Záloha uložená",
+        exportFailed: "Zálohu sa nepodarilo uložiť.",
         importConfirmTitle: "Importovať tieto nastavenia?",
         importConfirmBody: "Vaše aktuálne nastavenia sa nahradia nastaveniami zo súboru a aplikácia sa reštartuje. Nič iné na tomto Macu sa nezmení.",
         importAction: "Importovať a reštartovať",

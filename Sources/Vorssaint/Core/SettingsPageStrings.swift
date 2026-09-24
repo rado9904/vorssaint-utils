@@ -108,8 +108,10 @@ extension SettingsPageStrings {
     static let sk = SettingsPageStrings(
         energyDescription: "Udržujte Mac v bdelom stave, ovládajte svoje displeje a šetrite batériu.",
         monitorDescription: "Čo lišta a panel zobrazujú o vašom Macu a kedy vás upozorniť.",
-        mouseDescription: "Priraďte kolieku, bočným tlačidlám a trackpadu nové úlohy.",
-        switcherDescription: "Prepínajte medzi aplikáciami a oknami po svojom a sledujte okná z Docku.",
+        mouseDescription: "Priraďte koliesku, bočným tlačidlám a trackpadu nové úlohy.",
+        switcherDescription: "Prepínajte medzi aplikáciami a oknami po svojom.",
+        dockTitle: "Dock",
+        dockDescription: "Zobrazte okná aplikácie z jej ikony v Docku a vyberte, čo urobí kliknutie na ňu.",
         switcherLayoutWindows: "Náhľady okien",
         switcherLayoutWindowsCaption: "Jeden náhľad na okno, vrátane minimalizovaných.",
         switcherLayoutIcons: "Veľké ikony",

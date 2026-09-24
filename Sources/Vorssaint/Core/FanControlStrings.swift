@@ -343,7 +343,8 @@ extension FanControlFeatureStrings {
         averageCPU: "Priemer CPU",
         hottestCPU: "Najteplejší CPU",
         hottestGPU: "Najteplejší GPU",
-        helperUnavailable: "Chránený ovládač ventilátorov nie je dostupný. Povoľte Vorssaint v časti Položky a rozšírenia spúšťané pri prihlásení a skúste to znova."
+        helperUnavailable: "Chránený ovládač ventilátorov nie je dostupný. Povoľte Vorssaint v časti Položky a rozšírenia spúšťané pri prihlásení a skúste to znova.",
+        resumeAfterRestart: "Pokračovať po reštarte alebo spánku"
     )
 
     static let de = FanControlFeatureStrings(

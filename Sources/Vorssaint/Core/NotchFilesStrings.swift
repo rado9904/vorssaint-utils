@@ -91,7 +91,7 @@ extension FeatureStrings {
             completed: "Sťahovanie dokončené",
             clearFolder: "Zabudnúť priečinok",
             optimizeMedia: "Optimalizovať médiá",
-            optimizeDropHint: "Presuňte obrázky alebo jedno video na ostrov a pustite ich na Optimalizovať médiá, aby ste vybrali spôsob uloženia kópie.",
+            optimizeDropHint: "Presuňte obrázky alebo jedno video na Dynamic Island a pustite ich na Optimalizovať médiá, aby ste vybrali spôsob uloženia kópie.",
             resumeMedia: "Späť na médiá")
         case .de: return NotchFilesStrings(
             archive: "ZIP erstellen",

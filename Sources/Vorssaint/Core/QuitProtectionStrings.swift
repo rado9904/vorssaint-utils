@@ -182,7 +182,7 @@ extension QuitProtectionStrings {
     )
 
     static let sk = QuitProtectionStrings(
-        name: "Ochrana ukončenia a zatvárania",
+        name: "Ochrana pred ukončením a zatvorením",
         description: "Chráni ⌘Q a ⌘W pred náhodným stlačením",
         intro: "Nastavte každú skratku samostatne. Pôvodná akcia sa vykoná až po zvolenom potvrdení.",
         enabled: "Chrániť túto skratku",

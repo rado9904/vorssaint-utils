@@ -4,8 +4,6 @@
 import Combine
 import Foundation
 
-/// Languages the interface can use. The first launch defaults to the system
-/// language; the onboarding and Settings let the user override it at any time.
 /// The way a language agrees a noun with the number in front of it.
 enum CountAgreement {
     /// One form for exactly one, another for every other count.
@@ -19,6 +17,8 @@ enum CountAgreement {
     case byWholeNumber
 }
 
+/// Languages the interface can use. The first launch defaults to the system
+/// language; the onboarding and Settings let the user override it at any time.
 enum AppLanguage: String, CaseIterable, Identifiable {
     case enUS = "en-US"
     case ptBR = "pt-BR"

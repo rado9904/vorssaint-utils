@@ -280,7 +280,7 @@ extension KeepAwakeAutomationStrings {
         runningAppsListTitle: "Vybrané aplikácie",
         runningAppsAddButton: "Pridať aplikáciu…",
         runningAppsRemoveButton: "Odstrániť",
-        runningAppsListCaption: "Udržiavanie bdelosti sa spustí, kým je otvorená ktorákoľvek z týchto aplikácií, aj na pozadí.",
+        runningAppsListCaption: "Bdelý režim je aktívny, kým je otvorená ktorákoľvek z týchto aplikácií, aj na pozadí.",
         automationActive: "Aktívne, pretože je splnená automatická podmienka",
         pauseWhenLockedToggle: "Pozastaviť, keď je Mac uzamknutý",
         pauseWhenLockedCaption: "Počas uzamknutia sa riadi bežnými pravidlami uspávania a po odomknutí pokračuje zvyšná časť relácie.",

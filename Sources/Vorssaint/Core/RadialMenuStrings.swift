@@ -639,11 +639,11 @@ extension RadialMenuFeatureStrings {
 
     static let sk = RadialMenuFeatureStrings(
         pageTitle: "Radiálne menu",
-        hubDescription: "Otvorí koleso obľúbených akcií okolo ukazovateľa",
+        hubDescription: "Otvorí koleso obľúbených akcií okolo kurzora",
         enableLabel: "Používať radiálne menu",
         enableCaption: "Podržte skratku, namierte na akciu a pustite. Krátke stlačenie necháva koleso otvorené.",
         positionLabel: "Otvára sa",
-        positionPointer: "Pri ukazovateli",
+        positionPointer: "Pri kurzore",
         positionCenter: "V strede obrazovky",
         tryButton: "Vyskúšať",
         actionsHeader: "Akcie",
@@ -673,7 +673,7 @@ extension RadialMenuFeatureStrings {
         mediaNext: "Ďalšia skladba",
         mediaNowPlaying: "Práve sa prehráva",
         mediaNothingPlaying: "Nič sa neprehráva",
-        mediaOpenAppFormat: "Otvoriť %@",
+        mediaOpenAppFormat: "Otvoriť „%@“",
         submenuCaption: "Otvorí druhé koleso s vlastnými akciami.",
         saveButton: "Uložiť",
         deleteButton: "Odstrániť",
@@ -728,13 +728,15 @@ extension RadialMenuFeatureStrings {
         fetchFaviconLoading: "Načítava sa ikona…",
         fetchFaviconSuccess: "Ikona stiahnutá",
         fetchFaviconError: "Ikonu webu sa nepodarilo nájsť",
-        mouseTriggerRequirement: "Tu fungujú iba dodatočné tlačidlá myši. S trackpadom alebo myšou bez dodatočných tlačidiel použite klávesovú skratku vyššie.",
+        mouseTriggerRequirement: "Tu fungujú iba dodatočné tlačidlá myši. S myšou bez dodatočných tlačidiel použite klávesovú skratku vyššie. S trackpadom môžete použiť aj ťuknutie štyrmi prstami nižšie.",
         canvasHint: "Kliknutím na tlačidlo vyberiete, čo spúšťa, alebo ho odstránite. Presunutím tlačidla ho premiestnite.",
         resetActionsButton: "Obnoviť",
         resetActionsConfirm: "Obnoviť akcie",
         resetActionsConfirmMessage: "Obnoviť predvolené akcie pre tento profil? Vlastné akcie budú nahradené.",
         showListButton: "Zobraziť ako zoznam",
-        hideListButton: "Skryť zoznam"
+        hideListButton: "Skryť zoznam",
+        trackpadTapLabel: "Otvoriť ťuknutím štyrmi prstami",
+        trackpadTapConflict: "Stredné kliknutie už používa ťuknutie štyrmi prstami, takže toto ťuknutie koleso neotvorí."
     )
 
     static let de = RadialMenuFeatureStrings(

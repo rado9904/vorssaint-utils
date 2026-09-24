@@ -183,7 +183,7 @@ extension DiskImageInstallerStrings {
         trashDownloadOption: "Presunúť stiahnutý súbor do Koša",
         revealAppOption: "Zobraziť nainštalovanú aplikáciu vo Finderi",
         installedKeptDownloadBodyFormat: "Aplikácia %@ bola nainštalovaná do %@. Obraz disku bol vysunutý a stiahnutý súbor zostal zachovaný.",
-        installingFormat: "Inštalovanie %@…"
+        installingFormat: "Inštaluje sa aplikácia %@…"
     )
 
     static let de = DiskImageInstallerStrings(

@@ -186,10 +186,10 @@ extension SuperKeyStrings {
 
     static let sk = SuperKeyStrings(
         pageTitle: "Super kláves",
-        hubDescription: "Zmení jeden kláves na kombináciu doplnkových klávesov, ktorú si vyberiete.",
+        hubDescription: "Zmení jeden kláves na kombináciu modifikátorov, ktorú si vyberiete.",
         enableToggle: "Použiť tento kláves ako super kláves",
-        enableCaption: "Podržte ho a stlačte akýkoľvek kláves. Nižšie vyberte jeden alebo viac doplnkových klávesov.",
-        modifierKeysNote: "Ponechajte tento kláves s predvolenou akciou v Systémových nastaveniach › Klávesnica › Klávesy-modifikátory.",
+        enableCaption: "Podržte ho a stlačte akýkoľvek kláves. Nižšie vyberte jeden alebo viac modifikátorov.",
+        modifierKeysNote: "Ponechajte tento kláves s predvolenou akciou v Systémových nastaveniach › Klávesnica › Klávesy – modifikátory.",
         sourceKey: "Kláves na podržanie",
         capsLockKey: "Caps Lock",
         rightKeyFormat: "Pravý %@",
@@ -204,7 +204,8 @@ extension SuperKeyStrings {
         manageButton: "Nastaviť…",
         soloInputSource: "Prepne zdroj vstupu; podržaním aktivujete Caps Lock",
         mappingForeignMapping: "Mapovanie klávesov inej aplikácie používa vybraný kláves. Odstráňte ho v tejto aplikácii: samotné ukončenie nestačí.",
-        mappingSystemRefused: "macOS odmietol mapovanie klávesov. Znova pripojte klávesnicu alebo reštartujte Mac a potom to znova zapnite."
+        mappingSystemRefused: "macOS odmietol mapovanie klávesov. Znova pripojte klávesnicu alebo reštartujte Mac a potom to znova zapnite.",
+        keyboardTapRefused: "macOS nedovolil Vorssaintu sledovať klávesnicu. Vorssaint vypnite a zapnite v Systémových nastaveniach › Súkromie a bezpečnosť › Prístupnosť a potom túto voľbu znova zapnite."
     )
 
     static let de = SuperKeyStrings(

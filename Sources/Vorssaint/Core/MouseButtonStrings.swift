@@ -249,7 +249,7 @@ extension MouseButtonFeatureStrings {
         captureCancel: "Zrušiť",
         captureBlind: "Vorssaint teraz nemôže sledovať myš.",
         captureUnsupported: "Tomuto vstupu nemožno priradiť skratku. Použite extra tlačidlo alebo smer bočného kolieska.",
-        captureWheel: "Toto tlačidlo už otvára radiálnu ponuku. Vyberte iné, alebo ho tam najprv uvoľnite.",
+        captureWheel: "Toto tlačidlo už otvára radiálne menu. Vyberte iné, alebo ho tam najprv uvoľnite.",
         captureExists: "Toto tlačidlo alebo smer už je v zozname nižšie.",
         captureHint: "Ak sa nič nestane, tento ovládací prvok už možno používa vlastný softvér myši.",
         backButtonName: "Bočné tlačidlo späť",
@@ -258,20 +258,20 @@ extension MouseButtonFeatureStrings {
         setShortcutButton: "Nastaviť skratku",
         removeButton: "Odstrániť",
         emptyCaption: "Zatiaľ žiadne skratky. Pridajte tlačidlo alebo smer bočného kolieska.",
-        rowWheelNote: "Toto tlačidlo teraz otvára radiálnu ponuku, takže skratka čaká.",
+        rowWheelNote: "Toto tlačidlo teraz otvára radiálne menu, takže skratka čaká.",
         manageButton: "Nastaviť…",
         panelCaption: "Extra tlačidlá a smery bočného kolieska stláčajú kombinácie klávesov, ktoré si vyberiete.",
         sideWheelLeftName: "Bočné koliesko vľavo",
         sideWheelRightName: "Bočné koliesko vpravo",
-        spacesEnableLabel: "Prepínať Priestory presunutím tlačidla",
-        spacesEnableCaption: "Podržte zvolené tlačidlo a presuňte: vľavo alebo vpravo prejde o jeden Priestor, hore otvorí Mission Control, dole otvorí Exposé aplikácie. Krátke kliknutie naďalej robí to, čo vždy.",
+        spacesEnableLabel: "Prepínať plochy presunutím tlačidla",
+        spacesEnableCaption: "Podržte zvolené tlačidlo a presuňte: vľavo alebo vpravo prejde o jednu plochu, hore otvorí Mission Control, dole otvorí Exposé aplikácie. Krátke kliknutie naďalej robí to, čo vždy.",
         spacesPickButton: "Vybrať tlačidlo",
         spacesShortcutsOffNote: "Klávesové skratky pre Mission Control sú v Systémových nastaveniach vypnuté, takže toto gesto nemá o čo požiadať.",
         spacesCaptureWaiting: "Teraz stlačte extra tlačidlo.",
         spacesCaptureUnsupported: "Tento vstup nemožno podržať pre presunutie. Použite extra tlačidlo.",
         spacesCaptureExists: "Toto tlačidlo už má skratku. Vyberte iné.",
-        spacesFollowsDragLabel: "Priestory sledujú presun",
-        spacesFollowsDragCaption: "Presunutie doprava privedie Priestor vľavo, rovnako ako ťah po trackpade ho unáša spolu s vašimi prstami."
+        spacesFollowsDragLabel: "Plochy sledujú presun",
+        spacesFollowsDragCaption: "Presunutie doprava privedie plochu vľavo, rovnako ako ju ťah po trackpade unáša spolu s vašimi prstami."
     )
 
     static let de = MouseButtonFeatureStrings(

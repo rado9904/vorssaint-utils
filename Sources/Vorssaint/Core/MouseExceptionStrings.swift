@@ -131,7 +131,7 @@ extension MouseExceptionStrings {
         captionButtonShortcuts: "Vaše ďalšie tlačidlá myši v týchto aplikáciách mlčia a stlačenie namiesto toho dostane aplikácia.",
         captionMiddleClick: "Kliknutie tromi prstami zostáva v týchto aplikáciách bežným kliknutím.",
         captionFocusFollowsMouse: "Prejdenie kurzorom nad oknom v týchto aplikáciách nemení fokus ani ho nezobrazí navrchu.",
-        captionSuperKey: "Kým je otvorená ktorákoľvek z týchto aplikácií, aj na pozadí, Super Key sa pozastaví a vybraný kláves funguje normálne.",
+        captionSuperKey: "Kým je otvorená ktorákoľvek z týchto aplikácií, aj na pozadí, Super kláves sa pozastaví a vybraný kláves funguje normálne.",
         pausedSuperKey: "Pozastavené, kým je otvorená vybraná aplikácia"
     )
 

@@ -1927,6 +1927,8 @@ struct WindowLayoutFeatureStrings {
         gapsCaption: "Priestor medzi priťahovanými oknami a medzi oknami a okrajom obrazovky.",
         windowGap: "Medzera medzi oknami",
         screenGap: "Medzera od okraja obrazovky",
+        sideRepeatCycle: "Opakovaním „Vľavo“ alebo „Vpravo“ striedať veľkosti",
+        sideRepeatCycleCaption: "Polovica, potom dve tretiny, potom jedna tretina na tom istom displeji. Keď je to vypnuté a máte viac ako jeden displej, opakovanie presunie okno na ďalší displej na tej strane.",
         gapNone: "Žiadna",
         gapTiny: "Drobná",
         gapSmall: "Malá",
